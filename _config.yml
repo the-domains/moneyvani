@@ -1,0 +1,28 @@
+name: moneyvani
+favicon: null
+layout_spectrum: 0.9278362127952278
+typography_spectrum: 0.7469160715118051
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9067116514779627
+  lightness: 0.14646730152890086
+  saturation: 0.8125081083271652
+  rhythmicContrast: 0.41528862272389233
+purpose: []
